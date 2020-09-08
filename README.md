@@ -1,2 +1,3 @@
-# simple-helloapp
-hello world app
+# maven-project
+
+Simple Maven Project
